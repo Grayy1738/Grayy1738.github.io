@@ -1,0 +1,24 @@
+/* Structure*/
+
+
+/* Then typography*/
+h1 {
+    color:red;
+
+
+}
+p {
+    color:blue;
+}
+body {
+    background: seagreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div {
+    background: peachpuff;
+    padding: 50px;
+    margin: 20px auto;
+    width: 70%;
+    border-radius: 10px;
+    border: 5px solid plum;
+}
