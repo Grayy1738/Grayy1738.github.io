@@ -1,0 +1,48 @@
+/* Structure */
+body {
+    
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#content {
+    width: 70%;
+    margin: auto;
+    background: white;
+    border-radius: 5px;
+}
+#main-header {
+
+background-color: forestgreen;
+}
+
+#main-footer {
+background: skyblue;
+
+}
+#species section {
+
+    background: lightcoral;
+    padding: 5px;
+    margin: 5px;
+}
+/* Navigation*/
+#main-nav li {
+    list-style: none;
+}
+#main-nav ul {
+    padding-left:0;
+}
+#main-nav a{
+    text-decoration: none;
+    padding: 5px;
+    background: peachpuff;
+    color: indigo;
+}
+
+/*typography*/
+
+#main-footer p {
+    text-align: center;
+}
+
+/* Media Queries*/
