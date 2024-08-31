@@ -33,15 +33,15 @@ body {
 
 #main-nav a {
     display: block;
-    color: burlywood;
+    color: rgb(93, 140, 90);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    background: rgb(111, 67, 9);
+    background: rgb(44, 226, 126);
 }
 
 #main-nav a:hover {
-    background-color: #555;
+    background-color: #130b4e;
     color: #ffd700;
 }
 
